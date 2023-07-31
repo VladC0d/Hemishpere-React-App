@@ -1,0 +1,16 @@
+.N {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ee82ee;
+  text-align: center;
+}
+.S {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #7fffd4;
+  text-align: center;
+}
